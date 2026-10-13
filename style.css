@@ -1,0 +1,25 @@
+.intro {
+  text-align: left; 
+  color: #626a82;
+  line-height: 1.75;
+  font-size: 1.08rem;
+  margin-bottom: 28px;
+}
+
+.visual img {
+  
+  width: 100%;
+  height: 410px;
+  object-fit: cover;
+  border-radius: 22px;
+  display: block;
+}
+
+.inscricao p {
+  color: #e4e8ff; 
+}
+
+.botao-final {
+  
+  font-size: 1rem;
+}
